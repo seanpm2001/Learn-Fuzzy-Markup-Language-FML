@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language.
